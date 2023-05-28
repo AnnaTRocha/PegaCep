@@ -1,4 +1,4 @@
-# pegacep
+# PegaCep
  Aplicação para o usuário informar seu CEP e a página retornar a Rua, Cidade e Estado.
  
 Demonstração:
